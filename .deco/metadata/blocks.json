@@ -121,7 +121,7 @@
   },
   "/.deco/blocks/pages-Blog%2520Post%2520Page-827555.json": {
     "name": "Blog Post Page",
-    "path": "/blog/:slug",
+    "path": "/:slug",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
