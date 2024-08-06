@@ -3,6 +3,8 @@
   "__resolveType": "blog/loaders/Author.ts",
   "author": {
     "name": "Rafael Silva",
-    "email": "rafaelbueno195@gmail.com"
+    "email": "rafaelbueno195@gmail.com",
+    "jobTitle": "Analista de Conteúdo",
+    "company": "Taldx"
   }
 }
