@@ -31,6 +31,9 @@
       "posts": {
         "__resolveType": "blog/loaders/BlogpostList.ts",
         "count": 6
+      },
+      "cta": {
+        "text": "Leia mais"
       }
     },
     {
