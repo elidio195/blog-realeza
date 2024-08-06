@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/2e34a7978364",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Rafael Silva",
+    "email": "rafaelbueno195@gmail.com"
+  }
+}
