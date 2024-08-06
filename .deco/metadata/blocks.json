@@ -155,5 +155,9 @@
   "/.deco/blocks/Preview%20site%2Fsections%2FBlogPost.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/BlogPost.tsx"
+  },
+  "/.deco/blocks/collections%2Fblog%2Fposts%2F5745229faa20.json": {
+    "blockType": "loaders",
+    "__resolveType": "blog/loaders/Blogpost.ts"
   }
 }
