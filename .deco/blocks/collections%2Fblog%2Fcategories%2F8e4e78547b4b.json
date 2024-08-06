@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/8e4e78547b4b",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Piercing",
+    "slug": "piercing"
+  }
+}
