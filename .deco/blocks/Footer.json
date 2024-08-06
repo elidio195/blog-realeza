@@ -1,3 +1,62 @@
 {
-  "__resolveType": "site/sections/Footer.tsx"
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Quem somos",
+          "href": "https://taldarealeza.com.br/pages/quem-somos"
+        },
+        {
+          "href": "https://taldarealeza.com.br/pages/politica-de-entrega-reembolso-e-devolucao",
+          "label": "Política de Entrega, Reembolso e Devolução"
+        },
+        {
+          "label": "Política Privacidade",
+          "href": "https://taldarealeza.com.br/pages/politica-privacidade"
+        }
+      ],
+      "title": "Institucional"
+    },
+    {
+      "items": [
+        {
+          "label": "Início",
+          "href": "https://taldarealeza.com.br"
+        },
+        {
+          "label": "Piercings",
+          "href": "https://taldarealeza.com.br/collections/piercings"
+        },
+        {
+          "label": "Anel",
+          "href": "https://taldarealeza.com.br/collections/anel"
+        }
+      ],
+      "title": "Ecommerce"
+    }
+  ],
+  "bottomLinks": [],
+  "social": [
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/taldarealezajoias/"
+    },
+    {
+      "network": "Facebook",
+      "href": "https://www.facebook.com/profile.php?id=100089965216819"
+    }
+  ],
+  "subscribe": {
+    "title": "Assine e receba nossa newsletter com conteúdos exclusivos"
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11875/a39b312a-0bb1-4e63-a89a-d030ec8fee37"
+  },
+  "copyright": "TaldaRealeza",
+  "madeWith": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11875/40e60974-5abd-486d-95f7-27a160ab345f",
+    "label": "Blog criado pela própria",
+    "href": "https://taldarealeza.com.br"
+  }
 }
