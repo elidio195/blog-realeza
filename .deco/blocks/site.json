@@ -12,7 +12,8 @@
     "title": "Blog",
     "description": "Lorem Upson",
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11875/5baa27c2-b757-43e3-8b24-564c2fe01bba",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5018/71c97b9c-b94a-4cf5-8120-4bb7b99b21bb"
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5018/71c97b9c-b94a-4cf5-8120-4bb7b99b21bb",
+    "noIndexing": false
   },
   "global": [
     {
