@@ -134,5 +134,15 @@
   "/.deco/blocks/collections%2Fblog%2Fauthors%2F2e34a7978364.json": {
     "blockType": "loaders",
     "__resolveType": "blog/loaders/Author.ts"
+  },
+  "/.deco/blocks/pages-Piercing-705139.json": {
+    "name": "Piercing",
+    "path": "/categorias/:slug",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Main%20Header.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Header.tsx"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11875/e5006be9-945b-4a6f-a842-fcaaae5524ac"
+  },
+  "navigation": {
+    "links": [
+      {
+        "label": "Início",
+        "url": "https://sites-blog-realeza--rafaelbueno195.decocdn.com/"
+      },
+      {
+        "label": "Ecommerce",
+        "url": "https://taldarealeza.com.br"
+      }
+    ],
+    "buttons": []
+  }
+}
