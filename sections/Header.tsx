@@ -68,20 +68,10 @@ export default function Haader({
   return (
     
     <nav class="container mx-auto lg:px-0 px-4">
-<<<<<<< HEAD
       <script
         async
         src="https://www.googletagmanager.com/gtm.js?id=GTM-MDZDJLD" // Replace with your GTM ID
       />
-=======
-      <script dangerouslySetInnerHTML={{
-        __html: `
-      <script>(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MDZDJLD');</script>
->>>>>>> parent of 6375c8f (Release rafaelbueno195 environment with 1 changes by Rafael Silva)
       <div class="flex gap-8 items-center justify-between py-4">
         <a href="/">
           <Image src={logo.src || ""} width={100} height={28} alt={logo.alt} />
