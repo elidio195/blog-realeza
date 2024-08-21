@@ -63,13 +63,25 @@
     "blockType": "sections",
     "__resolveType": "site/sections/Theme/Theme.tsx"
   },
+  "/.deco/blocks/blog.json": {
+    "blockType": "apps",
+    "__resolveType": "decohub/apps/blog.ts"
+  },
   "/.deco/blocks/collections%2Fblog%2Fauthors%2F07ae63fcc4c0.json": {
     "blockType": "loaders",
     "__resolveType": "blog/loaders/Author.ts"
   },
+  "/.deco/blocks/decohub.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/decohub.ts"
+  },
   "/.deco/blocks/hero.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Hero.tsx"
+  },
+  "/.deco/blocks/htmx.json": {
+    "blockType": "apps",
+    "__resolveType": "decohub/apps/htmx.ts"
   },
   "/.deco/blocks/pages-Blog%2520Post%2520Page-827555.json": {
     "name": "Blog Post Page",
@@ -142,21 +154,5 @@
   "/.deco/blocks/collections%2Fblog%2Fposts%2F4a39cdcd5f7a.json": {
     "blockType": "loaders",
     "__resolveType": "blog/loaders/Blogpost.ts"
-  },
-  "/.deco/blocks/deco-analytics.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/analytics.ts"
-  },
-  "/.deco/blocks/deco-blog.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/blog.ts"
-  },
-  "/.deco/blocks/deco-htmx.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/htmx.ts"
-  }
-}co/blocks/deco-htmx.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/htmx.ts"
   }
 }
